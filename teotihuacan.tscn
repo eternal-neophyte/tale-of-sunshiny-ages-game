@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://78vhdrs25s08"]
+
+[node name="Teotihuacan" type="Node3D"]
+transform = Transform3D(0.642788, 0, -0.766045, 0, 1, 0, 0.766045, 0, 0.642788, 0, 0, 0)
